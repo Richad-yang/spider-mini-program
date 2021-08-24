@@ -1,6 +1,6 @@
 大众点评商铺评论数据抓取
 
-抓取地址为  [示例地址]("http://www.dianping.com/shop/l4Y1oOlQXlvcthUn")
+抓取地址为  http://www.dianping.com/shop/l4Y1oOlQXlvcthUn
 
 该页面评论内容防止抓取，做了css字体映射，svg加密
 
